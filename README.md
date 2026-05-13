@@ -1,3 +1,5 @@
+**Ameen Jolly**
+
 I enjoy building educational technology platforms, full stack applications and LLM-based systems.
 
 Interests:
