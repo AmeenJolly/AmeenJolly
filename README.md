@@ -1,16 +1,12 @@
-## Hi there 👋
+I enjoy building educational technology platforms, full stack applications and LLM-based systems.
 
-<!--
-**AmeenJolly/AmeenJolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests:
+AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+ ![EdTech](https://img.shields.io/badge/EdTech-2563EB?style=for-the-badge)
