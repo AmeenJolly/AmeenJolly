@@ -1,6 +1,6 @@
 **Ameen Jolly**
 
-I have a passion for utilising technology to enhance educational services available to the public. As a result, I spend my time building educational technology platforms, full stack applications and LLM-based systems, all of which have real interpretable insights upon deployment to track progress.
+I have a passion for utilising and building technology that makes high quality education more accessible to the public. As a result, I spend my spare time building educational technology platforms, full stack applications and LLM-based systems, that people can genuinely benefit from.
 
 Interests:
 AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
