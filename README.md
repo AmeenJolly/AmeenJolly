@@ -1,5 +1,3 @@
-[google5b4c2e1b5101c03d.html](https://github.com/user-attachments/files/27774457/google5b4c2e1b5101c03d.html)
-[google5e7d2d9487c119b4.html](https://github.com/user-attachments/files/27774320/google5e7d2d9487c119b4.html)
 **Ameen Jolly**
 
 I have a passion for utilising and building technology that makes high quality education more accessible to the public. As a result, I spend my spare time building educational technology platforms, full stack applications and LLM-based systems, that people can genuinely benefit from.
