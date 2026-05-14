@@ -1,3 +1,4 @@
+[google5e7d2d9487c119b4.html](https://github.com/user-attachments/files/27774320/google5e7d2d9487c119b4.html)
 **Ameen Jolly**
 
 I have a passion for utilising and building technology that makes high quality education more accessible to the public. As a result, I spend my spare time building educational technology platforms, full stack applications and LLM-based systems, that people can genuinely benefit from.
@@ -14,3 +15,4 @@ Based in London
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
  ![EdTech](https://img.shields.io/badge/EdTech-2563EB?style=for-the-badge)
+google-site-verification: google5e7d2d9487c119b4.html
