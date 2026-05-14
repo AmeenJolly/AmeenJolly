@@ -5,7 +5,7 @@ I have a passion for utilising and building technology that makes high quality e
 Interests:
 AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
 
-Based in Dubai/London
+Based in London
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
