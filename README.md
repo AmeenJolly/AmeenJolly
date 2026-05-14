@@ -1,6 +1,6 @@
 **Ameen Jolly**
 
-I enjoy building educational technology platforms, full stack applications and LLM-based systems.
+I have a passion for utilising technology to enhance educational services available to the public. As a result, I spend my time building educational technology platforms, full stack applications and LLM-based systems, all of which have real interpretable insights upon deployment to track progress.
 
 Interests:
 AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
