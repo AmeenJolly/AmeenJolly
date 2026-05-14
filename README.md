@@ -1,5 +1,7 @@
 **Ameen Jolly**
 
+**Hi 👋, I'm Ameen Jolly**
+
 I have a passion for utilising and building technology that makes high quality education more accessible to the public. As a result, I spend my spare time building educational technology platforms, full stack applications and LLM-based systems, that people can genuinely benefit from.
 
 Interests:
