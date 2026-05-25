@@ -7,6 +7,9 @@ I have a passion for utilising and building technology that makes high quality e
 Interests:
 AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
 
+Educational Background:
+King's College London - Bachelors of Engineering (Hons) Biomedical Engineering 
+
 Based in London
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
