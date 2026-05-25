@@ -8,7 +8,9 @@ I have a passion for utilising and building technology that makes high quality e
 AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
 
 **Educational Background:**
-King's College London - Bachelors of Engineering (Hons) Biomedical Engineering 
+King's College London - Bachelors of Engineering (Hons) Biomedical Engineering
+<img width="280" height="280" alt="image" src="https://github.com/user-attachments/assets/1b7dc569-11e8-472f-92e2-9b942bd26cc4" />
+
 
 Based in London
 
