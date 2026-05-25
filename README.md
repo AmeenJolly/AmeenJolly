@@ -9,6 +9,7 @@ AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Produc
 
 **Educational Background:**
 King's College London - Bachelors of Engineering (Hons) Biomedical Engineering
+
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1b7dc569-11e8-472f-92e2-9b942bd26cc4" />
 
 
