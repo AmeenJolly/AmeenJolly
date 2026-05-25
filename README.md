@@ -4,10 +4,10 @@
 
 I have a passion for utilising and building technology that makes high quality education more accessible to the public. As a result, I spend my spare time building educational technology platforms, full stack applications and LLM-based systems, that people can genuinely benefit from.
 
-Interests:
+**Interests:**
 AI Engineering, Full-Stack Development, EdTech, Applied Machine Learning, Product Development
 
-Educational Background:
+**Educational Background:**
 King's College London - Bachelors of Engineering (Hons) Biomedical Engineering 
 
 Based in London
